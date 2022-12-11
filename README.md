@@ -1,10 +1,10 @@
-[![MasterHead](https://i.imgur.com/sPBwkpc.jpeg)](https://github.com/TekRomain)
+[![MasterHead](https://i.imgur.com/sPBwkpc.jpeg)](https://github.com/DiamonsGold)
 
 <h1 align="center">Hello 👋, I'm Diamons</h1>
 <h3 align="center">A epitech student</h3>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tekromain&show_icons=true&locale=en&layout=compact" alt="tekromain" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diamonsgold&show_icons=true&locale=en&layout=compact" alt="diamonsgold" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -43,10 +43,10 @@
 
 <h3 align="center">My stats:</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tekromain&show_icons=true&locale=en" alt="tekromain" />
+    <img src="https://github-readme-stats.vercel.app/api?username=diamonsgold&show_icons=true&locale=en" alt="diamonsgold" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tekromain&" alt="tekromain" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diamonsgold&" alt="diamonsgold" />
 </p>
 
