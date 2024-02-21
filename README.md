@@ -6,7 +6,7 @@
 
 📈 I always try to ***learn*** more
 
-✨ Nothing is better when you can do it by your ***own***
+✨ Nothing is better when you do it by your ***own***
 
 <br /><br />
 
