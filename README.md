@@ -1,5 +1,5 @@
 
-<img src="https://avatars.githubusercontent.com/u/114656699?v=4" width="260" height="260" align="left" />
+<img src="https://e0.pxfuel.com/wallpapers/691/707/desktop-wallpaper-morgan-codes-minimal-minimalist-code.jpg" height="260" align="left" />
 
 ## Hello World!
 📝 I'm ***Romain Huré***, student at *Epitech - Rennes*, targeting for a master in *computer science*.
@@ -8,7 +8,7 @@
 
 ✨ Nothing is better when you can do it by your ***own***
 
-<br /><br /><br />
+<br /><br />
 
 ---
 
