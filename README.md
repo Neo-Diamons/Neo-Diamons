@@ -22,12 +22,12 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
 ### Runtimes environments
 <div>
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white" />
 </div>
 
 ### Frameworks
@@ -48,28 +48,45 @@
 <div>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
 </div>
 
 ### Databases
 <div>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 ---
 
-<div align="center">
-  <a href="https://github.com/Neo-Diamons">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Neo-Diamons&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  </a>
-  <a href="https://github.com/Neo-Diamons">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neo-Diamons&layout=compact&langs_count=8&card_width=320&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  </a>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Neo-Diamons&show_icons=true&include_all_commits=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Neo-Diamons&show_icons=true&include_all_commits=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Neo-Diamons&show_icons=true&include_all_commits=true" />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Neo-Diamons&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Neo-Diamons&layout=compact&langs_count=8&card_width=320&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neo-Diamons&layout=compact&langs_count=8&card_width=320&show_icons=true" />
+  </picture>
 </div>
 
 ---
 
 ### Contacts
 
-✉️ Email : [romain.hure@epitech.eu](romain.hure@epitech.eu)
+✉️ Email : [romain.hure@epitech.eu](mailto:romain.hure@epitech.eu) \
+🌐 Website: [Romain Huré - Portfolio](https://diamons.fr)
