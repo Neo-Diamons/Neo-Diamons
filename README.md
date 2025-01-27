@@ -61,26 +61,30 @@
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <picture>
     <source
+      height=200
       srcset="https://github-readme-stats.vercel.app/api?username=Neo-Diamons&show_icons=true&include_all_commits=true&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
+      height=200
       srcset="https://github-readme-stats.vercel.app/api?username=Neo-Diamons&show_icons=true&include_all_commits=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Neo-Diamons&show_icons=true&include_all_commits=true" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Neo-Diamons&show_icons=true&include_all_commits=true" />
   </picture>
 
   <picture>
     <source
+      height=200
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Neo-Diamons&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
+      height=200
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Neo-Diamons&layout=compact&langs_count=8&card_width=320&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neo-Diamons&layout=compact&langs_count=8&card_width=320&show_icons=true" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Neo-Diamons&layout=compact&langs_count=8&card_width=320&show_icons=true" />
   </picture>
 </div>
 
